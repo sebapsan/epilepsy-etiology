@@ -134,3 +134,7 @@ DOI: [10.1046/j.1460-9568.2002.01985.x](https://doi.org/10.1046/j.1460-9568.2002
 ## Acknowledgments
 
 I would like to highlight the importance of the seminal papers by Wendling et al. (2002) and Hodgkin & Huxley (1952), fundamental contributions to computational neuroscience and epilepsy research.
+
+## Project group members
+
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100px;" alt="Pietro Saveri"/><br /> <sub><b>Pietro Saveri</b></sub> </a> </td> <td align="center"> <a href="https://github.com/sebaleye"> <img src="https://github.com/sebaleye.png" width="100px;" alt="Sebastiano Pietrasanta"/><br /> <sub><b>Sebastiano Pietrasanta</b></sub> </a> </td> <td align="center"> <a href="https://github.com/M4tteoo"> <img src="https://github.com/M4tteoo.png" width="100px;" alt="Matteo Salami"/><br /> <sub><b>Matteo Salami</b></sub> </a> </td> </tr> </table> </div>
