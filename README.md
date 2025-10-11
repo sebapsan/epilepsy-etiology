@@ -42,11 +42,11 @@ See requirements.txt for specific versions.
 ### Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/epilepsy_etiology.git
+# clone the repository
+git clone https://github.com/sebaleye/epilepsy_etiology.git
 cd epilepsy_etiology
 
-# Install dependencies
+# install dependencies
 pip install -r requirements.txt
 ```
 
@@ -66,10 +66,10 @@ python examples/hh_seizure.py
 # Wendling basic LFP
 python examples/wendling_basic.py
 
-# Six epileptic states
+# six epileptic states
 python examples/wendling_six_states.py
 
-# Complete seizure event
+# complete seizure event
 python examples/seizure_concatenation.py
 ```
 
