@@ -43,8 +43,8 @@ See requirements.txt for specific versions.
 
 ```bash
 # clone the repository
-git clone https://github.com/sebaleye/epilepsy_etiology.git
-cd epilepsy_etiology
+git clone https://github.com/sebaleye/epilepsy-etiology.git
+cd epilepsy-etiology
 
 # install dependencies
 pip install -r requirements.txt
