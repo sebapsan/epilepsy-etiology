@@ -43,7 +43,7 @@ See requirements.txt for specific versions.
 
 ```bash
 # clone the repository
-git clone https://github.com/sebaastiano/epilepsy-etiology.git
+git clone https://github.com/sebapsan/epilepsy-etiology.git
 cd epilepsy-etiology
 
 # install dependencies
@@ -137,4 +137,4 @@ I would like to highlight the importance of the seminal papers by Wendling et al
 
 ## Project group members
 
-<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100px;" alt="Pietro Saveri"/><br /> <sub><b>Pietro Saveri</b></sub> </a> </td> <td align="center"> <a href="https://github.com/sebaastiano"> <img src="https://github.com/sebaastiano.png" width="100px;" alt="Sebastiano Pietrasanta"/><br /> <sub><b>Sebastiano Pietrasanta</b></sub> </a> </td> <td align="center"> <a href="https://github.com/M4tteoo"> <img src="https://github.com/M4tteoo.png" width="100px;" alt="Matteo Salami"/><br /> <sub><b>Matteo Salami</b></sub> </a> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100px;" alt="Pietro Saveri"/><br /> <sub><b>Pietro Saveri</b></sub> </a> </td> <td align="center"> <a href="https://github.com/sebapsan"> <img src="https://github.com/sebapsan.png" width="100px;" alt="Sebastiano Pietrasanta"/><br /> <sub><b>Sebastiano Pietrasanta</b></sub> </a> </td> <td align="center"> <a href="https://github.com/M4tteoo"> <img src="https://github.com/M4tteoo.png" width="100px;" alt="Matteo Salami"/><br /> <sub><b>Matteo Salami</b></sub> </a> </td> </tr> </table> </div>
